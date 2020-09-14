@@ -2,3 +2,4 @@
 This is my week-1 kickstarter-project solution. 
 The Excel workbook has 3 worksheets with Pivot tables as solutions to the HW.
 The Word file has the report on the dataset provided.
+I just completed Bonus question and Statistical analysis and uploaded additional excel sheets.  
